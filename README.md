@@ -1,4 +1,4 @@
-# fa25-cs411-team008-Team8
+# Campus Amenaties
 # Campus Amenities Rating – Full Stack Application
 
 This project is a campus amenities rating app for UIUC.  
